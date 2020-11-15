@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fea42639-2738-4494-b048-457642d2df56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VWsnkmBYCAKYKmVjEIK4O9gW4S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.codechefprobmedium2">
+    <configuration name="Kickstarr_C_20_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algo_26_12_19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginning" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginning/Kickstarr_C_20_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kickstart_C_20_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algo_26_12_19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginning" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginning/Kickstart_C_20_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="codechefprobmedium2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algo_26_12_19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginning" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginning/codechefprobmedium2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algo_26_12_19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginning" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginning/demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kickstart_B_20_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algo_26_12_19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginning" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginning/kickstart_B_20_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.kickstart_B_20_4" />
+      <item itemvalue="Python.demo1" />
+      <item itemvalue="Python.Kickstart_C_20_1" />
+      <item itemvalue="Python.Kickstarr_C_20_3" />
+      <item itemvalue="Python.codechefprobmedium2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.codechefprobmedium2" />
+        <item itemvalue="Python.Kickstarr_C_20_3" />
+        <item itemvalue="Python.Kickstart_C_20_1" />
+        <item itemvalue="Python.kickstart_B_20_4" />
+        <item itemvalue="Python.demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fea42639-2738-4494-b048-457642d2df56" name="Default Changelist" comment="" />
+      <created>1577380354615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577380354615</updated>
+      <workItem from="1577380361611" duration="2116000" />
+      <workItem from="1580063335126" duration="6939000" />
+      <workItem from="1586709073857" duration="42541000" />
+      <workItem from="1588096527243" duration="63393000" />
+      <workItem from="1589043931515" duration="1056000" />
+      <workItem from="1589713119173" duration="13585000" />
+      <workItem from="1590162463134" duration="1303000" />
+      <workItem from="1593449493843" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="171" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587255169411">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="171" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1587255169411" />
+    <state width="1358" height="100" key="GridCell.Tab.0.bottom" timestamp="1590224911810">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="100" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1590224911810" />
+    <state width="1358" height="100" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1589846806283" />
+    <state width="1358" height="100" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1587906814862" />
+    <state width="1358" height="100" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1588612630160" />
+    <state width="1358" height="100" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1588614396114" />
+    <state width="1358" height="100" key="GridCell.Tab.0.center" timestamp="1590224911809">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="100" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1590224911809" />
+    <state width="1358" height="100" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1589846806282" />
+    <state width="1358" height="100" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1587906814861" />
+    <state width="1358" height="100" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1588612630159" />
+    <state width="1358" height="100" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1588614396114" />
+    <state width="1358" height="100" key="GridCell.Tab.0.left" timestamp="1590224911808">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="100" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1590224911808" />
+    <state width="1358" height="100" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1589846806282" />
+    <state width="1358" height="100" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1587906814859" />
+    <state width="1358" height="100" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1588612630159" />
+    <state width="1358" height="100" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1588614396113" />
+    <state width="1358" height="100" key="GridCell.Tab.0.right" timestamp="1590224911809">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="100" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1590224911809" />
+    <state width="1358" height="100" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1589846806282" />
+    <state width="1358" height="100" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1587906814861" />
+    <state width="1358" height="100" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1588612630159" />
+    <state width="1358" height="100" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1588614396114" />
+    <state width="1358" height="252" key="GridCell.Tab.1.bottom" timestamp="1587257024432">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="252" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587257024432" />
+    <state width="1358" height="252" key="GridCell.Tab.1.center" timestamp="1587257024431">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="252" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1587257024431" />
+    <state width="1358" height="252" key="GridCell.Tab.1.left" timestamp="1587257024430">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="252" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1587257024430" />
+    <state width="1358" height="252" key="GridCell.Tab.1.right" timestamp="1587257024432">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="252" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1587257024432" />
+    <state x="363" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1593449497995">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="363" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1590162464064" />
+    <state x="363" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1589108572509" />
+    <state x="363" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1593449497995" />
+    <state x="364" y="56" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588202271800">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="364" y="56" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.822@0.23.1440.822" timestamp="1588202271800" />
+    <state x="254" y="177" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587256980924">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="254" y="177" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.822@0.23.1440.822" timestamp="1587256980924" />
+    <state x="284" y="37" width="845" height="792" key="find.popup" timestamp="1587411061982">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="284" y="37" width="845" height="792" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1587411061982" />
+    <state x="372" y="172" width="670" height="675" key="search.everywhere.popup" timestamp="1588539088732">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="372" y="172" width="670" height="675" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1588539088732" />
+    <state x="372" y="172" width="670" height="676" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1587868837140" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algo_26_12_19$kickstart_B_20_4.coverage" NAME="kickstart_B_20_4 Coverage Results" MODIFIED="1588614396108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginning" />
+    <SUITE FILE_PATH="coverage/algo_26_12_19$l.coverage" NAME="l Coverage Results" MODIFIED="1587559284508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginning" />
+    <SUITE FILE_PATH="coverage/algo_26_12_19$kickstart_B_20_3_1.coverage" NAME="kickstart_B_20_3_1 Coverage Results" MODIFIED="1588531852753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginning" />
+    <SUITE FILE_PATH="coverage/algo_26_12_19$Kickstart_C_20_1.coverage" NAME="Kickstart_C_20_1 Coverage Results" MODIFIED="1589720207108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginning" />
+    <SUITE FILE_PATH="coverage/algo_26_12_19$Kickstarr_C_20_3.coverage" NAME="Kickstarr_C_20_3 Coverage Results" MODIFIED="1589846806274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginning" />
+    <SUITE FILE_PATH="coverage/algo_26_12_19$codechefprobmedium2.coverage" NAME="codechefprobmedium2 Coverage Results" MODIFIED="1590167638622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginning" />
+    <SUITE FILE_PATH="coverage/algo_26_12_19$kickstart_B_20_2.coverage" NAME="kickstart_B_20_2 Coverage Results" MODIFIED="1588174301833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginning" />
+    <SUITE FILE_PATH="coverage/algo_26_12_19$kickstart_B_20_3.coverage" NAME="kickstart_B_20_3 Coverage Results" MODIFIED="1588531373932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginning" />
+    <SUITE FILE_PATH="coverage/algo_26_12_19$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1588575458593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beginning" />
+  </component>
+</project>
